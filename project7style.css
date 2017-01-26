@@ -1,1 +1,25 @@
-
+#main-headline {
+  text-align: center ;
+  color: #0000FF ;
+}
+h2 {
+  text-align: center ;
+}
+.place-description{
+  font-family: Verdana ;
+  color: #79a05d ;
+}
+.person-description {
+  color: #934ace ;
+  font-style: oblique
+}
+.top-favorite{
+  color: #bf2716 ;
+  
+}
+.important-point {
+  text-decoration: underline ;
+}
+.emphasis{
+  font-style: italic ;
+}
